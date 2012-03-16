@@ -1,0 +1,10 @@
+This is a project for automation test running in target machine.
+It can support Windows and Mac OS or Linux.
+In Windows platform, it is a tray program to receive server command.
+In Mac OS or Linux, it is daemon program to active test cases running.
+
+Develop tool:
+  Visual Studio or other editors
+  wxWidgets 2.8.11
+  CMake 2.8
+SCM Tool:git on github.com
